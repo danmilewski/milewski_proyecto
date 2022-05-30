@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navcolor {
+    background-color: rgb(250, 103, 157);
+}
+.brand1 {
+    font-size: 2rem;
+    font-family: Cochin;
+    text-shadow: 0 0 1px white;
+}
+.brand1 span {
+    color: rgb(250, 247, 253);
+    text-shadow: 0px 0px 3px black;
+}
