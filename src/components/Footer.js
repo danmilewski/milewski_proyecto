@@ -1,3 +1,5 @@
+import NavBar from "./NavBar"
+
 const Footer = () => {
     return (
         <footer>

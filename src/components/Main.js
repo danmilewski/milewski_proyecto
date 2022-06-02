@@ -1,8 +1,11 @@
+import ItemListContainer from "./ItemListContainer"
+import {Container} from 'react-bootstrap'
+
 const Main = () => {
     return (
-        <main>
-            <h2>Titulo del Main</h2>
-        </main>
+        <Container as="main">
+            <ItemListContainer saludo="Bienvenid@!" />
+        </Container>
     )
 }
 
